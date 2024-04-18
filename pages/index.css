@@ -95,7 +95,7 @@
   line-height: 20px;
   color: #838383;
 }
-.header__footer-paragraph {
+.header__paragraph {
   margin: 0;
 }
 .recipes {
@@ -138,7 +138,7 @@
   overflow: hidden;
   height: 100%;
 }
-.recipes__video-iframe {
+.recipes__iframe {
   position: absolute;
   top: 0;
   left: 0;
