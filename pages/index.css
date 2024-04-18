@@ -54,10 +54,6 @@
   column-gap: 20px;
   font-weight: 500;
 }
-.header__content {
-  display: flex;
-  justify-content: space-between;
-}
 .header__title {
   display: grid;
   max-width: 709px;
@@ -91,7 +87,7 @@
 }
 .header__footer {
   display: flex;
-  align-items: center;
+  align-items: flex-end;
   justify-content: space-between;
   box-sizing: border-box;
   margin: auto 80px 40px 80px;
@@ -101,9 +97,6 @@
 }
 .header__footer-paragraph {
   margin: 0;
-}
-.header__footer-paragraph-flex-end {
-  align-self: flex-end;
 }
 .recipes {
   background-color: #0a2750;
