@@ -27,3 +27,6 @@
   column-gap: 20px;
   font-weight: 500;
 }
+.nav__link:hover {
+  color: #2f80ed;
+}
